@@ -74,14 +74,14 @@ table {
 
 .botao-claro{
     background-color: white;
-    padding: 12px;
+    padding: 10px;
     font-family: arial;
     font-weight: bold; /* peso da letra*/
     font-size: 22px; /*tamanho fonte */
     text-decoration: none; 
     color: lime; 
     border: 3px double lime;
-    width: 100px;
+    width: 150px;
     text-align: center;
     text-transform: uppercase;
 }
@@ -90,18 +90,19 @@ table {
     background-color: lime;
     color: white;
     border-color: white;
+    transform: scale(1.2);
 }
 
 .botao-dark{
     background-color: black;
-    padding: 12px;
+    padding: 10px;
     font-family: arial;
     font-weight: bold; /* peso da letra*/
     font-size: 22px; /*tamanho fonte */
     text-decoration: none; 
     color: red; 
     border: 3px double red;
-    width: 100px;
+    width: 150px;
     text-align: center;
     text-transform: uppercase;
 }
@@ -110,4 +111,5 @@ table {
     background-color: red;
     color: white;
     border-color: white;
+    transform: scale(1.2);
 }
